@@ -22,8 +22,6 @@
   
   <a href="https://www.linkedin.com/in/carloseduardo0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/carloseduardo0906/carloseduardo0906/blob/output/github-contribution-grid-snake.svg)
-  
   </div>
   
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardo0906&repo=CarlosEduardo0906&theme=react)](https://github.com/CarlosEduardo0906/CarlosEduardo0906)
