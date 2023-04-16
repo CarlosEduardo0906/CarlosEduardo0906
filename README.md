@@ -1,7 +1,7 @@
 ### Olá! Me chamo Carlos Eduardo
 
 - Estou trabalhando com Front-End
-- Estudando Java, Angular
+- Estudando Java, React
 
 <div>
   <a href="https://github.com/carloseduardo0906">
